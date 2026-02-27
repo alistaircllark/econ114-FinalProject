@@ -1,6 +1,6 @@
 # Econ 114 Final Project
 
-This repository contains the data, scripts, and results for my final project in Economics 114 at UC Santa Cruz. 
+This repository contains the data, scripts, and results for my final project in Advanced Quantitative Methods (Econ 114) at UC Santa Cruz. 
 
 ## Project Overview
 The project investigates the relationship between exercise and mental health using survey data. The analysis employs fixed effects and instrumental variable (IV) regression techniques to account for endogeneity, using friends' exercise habits as an instrument for individual exercise levels.
