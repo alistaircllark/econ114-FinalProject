@@ -14,7 +14,7 @@ The project investigates the relationship between exercise and mental health usi
     - `data_cleaning.R`: R script that cleans the raw survey data, collapses daily variables, and generates the panel dataset.
     - `analysis.do`: Stata DO file that analyzes the processed panel data using fixed effects models, simple OLS, and 2SLS (Instrumental Variables).
 - `results/`: Output from the Stata analysis, including log files and regression tables.
-- `docs/`: Word documents containing the final project write-up and results discussion.
+- `docs/`: Word documents containing the final project write-up and results discussion, as well as the final submitted paper (`Econ114-FinalPaper.pdf`).
 
 ## Methodology
 The study uses daily survey data. 
